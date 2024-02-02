@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VakatBA</string>
+    <string name="namaz_1">Zora</string>
+    <string name="namaz_2">Izlazak</string>
+    <string name="namaz_3">Podne</string>
+    <string name="namaz_4">Ikindija</string>
+    <string name="namaz_5">Akšam</string>
+    <string name="namaz_6">Jacija</string>
+</resources>
